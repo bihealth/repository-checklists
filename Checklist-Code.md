@@ -45,3 +45,9 @@ This checklist contains points that should be considered for any code repository
 
 - use for any (binary) file above a few kb
 - can be ignored if in total below 50MB of files that are expected to "never" change
+
+## Meta Files
+
+- code of conduct, pypa one is reasonable
+- contributing file, describe branches and pull request targets
+- GitHub issue templates for bugs and issues, standard ones are a good starting point
