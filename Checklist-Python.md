@@ -18,3 +18,13 @@
 - Use standard library `argparse` for argument parsing
 - python-attrs and cattrs for no-boilerplate class creation
 - Factory boy for test data creation
+
+## Includes
+
+- Group includes as system, external, this project
+- isort profile see snappy
+
+## Linting and Static Checks
+
+- Codacy with local prospector setup
+- Black line length 100
