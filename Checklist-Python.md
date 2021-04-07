@@ -23,6 +23,7 @@
 
 - Group includes as system, external, this project
 - isort profile see snappy
+- absolute imports
 
 ## Linting and Static Checks
 
